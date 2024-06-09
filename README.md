@@ -17,4 +17,3 @@ Something Interesting about me :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=seanlunar)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=seanlunar" alt="GitHub Streak" /></a>
