@@ -17,3 +17,5 @@ Something Interesting about me :
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=seanlunar)](https://git.io/streak-stats)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seanlunar)](https://github.com/anuraghazra/github-readme-stats)
+
