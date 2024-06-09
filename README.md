@@ -1,6 +1,8 @@
 [![MasterHead](header.png)](https://github.com/seanlunar)
 
-**seanlunar/Codeslayer** is a ✨ 🖥 ✨ Laravel Genius .
+**seanlunar/Codeslayer** is a ✨ 🖥 ✨  Software Engineer .
+
+💭 ### Bjarne Stroustrup (Creator of C++) -The most important single aspect of software development is to be clear about what you are trying to build. 💭
 
 Something Interesting about me :
 
