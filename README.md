@@ -10,9 +10,9 @@ Something Interesting about me :
 
 - 😄 Pronouns: He/Him
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanlunar&layout=compact)
+
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanlunar)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanlunar&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
