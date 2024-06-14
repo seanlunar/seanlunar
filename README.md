@@ -10,7 +10,8 @@ Something Interesting about me :
 
 - 😄 Pronouns: He/Him
 
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=seanlunar&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=seanlunar&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanlunar&layout=compact)]
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
