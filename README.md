@@ -13,6 +13,7 @@ Something Interesting about me :
 
 <br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanlunar&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanlunar&layout=compact)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
