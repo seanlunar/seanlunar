@@ -10,8 +10,6 @@ Something Interesting about me :
 
 - 😄 Pronouns: He/Him
 
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=seanlunar)](https://git.io/streak-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=seanlunar&theme=gruvbox&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seanlunar)](https://github.com/anuraghazra/github-readme-stats)
 
