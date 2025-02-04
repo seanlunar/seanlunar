@@ -8,7 +8,7 @@ Something Interesting about me :
 
 - 🔭 I’m currently lead developer on this open source event web application https://github.com/geekquest/events.geekquest.mw
 
-- 😄 Pronouns: He/Him
+
 -  Email: chawingachimwemwe@gmail.com
 
 
