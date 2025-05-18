@@ -1,6 +1,6 @@
 [![MasterHead](header.png)](https://github.com/seanlunar)
 
-**seanlunar/Codeslayer** i am ✨ 🖥 ✨  Software Engineer .
+**seanlunar/Codeslayer**  a dedicated ✨ 🖥 ✨  Software Engineer .
 
 💭 Bjarne Stroustrup (Creator of C++) -The most important single aspect of software development is to be clear about what you are trying to build. 💭
 
